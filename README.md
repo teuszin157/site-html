@@ -1,4 +1,8 @@
-# site-html
+<htm<head>
+    <link rel="stylesheet" href="style.css"/>
+
+</head>
+
 <body>
 
 <header>ALURAFLIX</header>
@@ -13,3 +17,16 @@
 
 
 </body>
+
+
+
+
+
+
+
+
+body {
+    color:purple;
+    background: black;
+
+}
