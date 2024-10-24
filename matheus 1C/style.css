@@ -1,0 +1,9 @@
+body {
+    color: purple;
+    background: black;
+
+}
+
+header {
+    border-bottom: solid 1px purple;
+}
